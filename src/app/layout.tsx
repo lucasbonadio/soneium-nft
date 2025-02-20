@@ -5,9 +5,9 @@ import "@rainbow-me/rainbowkit/styles.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "WAGMI + RainbowKit Demo App",
+  title: "Soneium NFT",
   description:
-    "A Demo app for minting NFTs on Soneium Minato by using WAGMI and Rainbowkit.",
+    "A Demo app for minting NFTs on Soneium Minato"
 };
 
 export default function RootLayout({
